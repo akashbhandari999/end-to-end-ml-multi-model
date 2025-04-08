@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akashbhandari/Documents/MLflow%20DS%20Project/End-to-end-ml-multi-model/mlruns/0/7805b65cc162451cbd948f3550303625/artifacts
+end_time: 1744138107485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7805b65cc162451cbd948f3550303625
+run_name: traveling-shrimp-749
+run_uuid: 7805b65cc162451cbd948f3550303625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744138101290
+status: 4
+tags: []
+user_id: akashbhandari

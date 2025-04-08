@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akashbhandari/Documents/MLflow%20DS%20Project/End-to-end-ml-multi-model/mlruns/0/f76e579ee4b748d6a3323d7fc200d9b9/artifacts
+end_time: 1744138446555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f76e579ee4b748d6a3323d7fc200d9b9
+run_name: sedate-loon-806
+run_uuid: f76e579ee4b748d6a3323d7fc200d9b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744138443433
+status: 4
+tags: []
+user_id: akashbhandari
