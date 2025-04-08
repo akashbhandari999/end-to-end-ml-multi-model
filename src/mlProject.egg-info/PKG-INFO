@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/entbappy/End-to-end-ML-Project-with-MLflow
+Author: entbappy
+Author-email: akashbhandari0309@gmail.com
+Project-URL: Bug Tracker, https://github.com/entbappy/End-to-end-ML-Project-with-MLflow/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# End-to-end-Machine-Learning-with-MLflow
